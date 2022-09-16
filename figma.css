@@ -1,0 +1,171 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #f57d97;
+    background-image: url(./Images/Rectangle\ 3.png);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+
+.navhead, .list ul, .cloud, .en, .spy {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+}
+.list li {
+    margin-right: 20px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.spy, .en {
+    gap: 20px;
+    color: white;
+    padding: 10px;
+}
+.log button {
+    color: #ffff;
+ background-color: #D52047;
+ border: 1px solid white;
+ width: 80px;
+ height: 30px;
+ border-radius: 5px;
+ 
+}
+.man {
+    text-align: center;
+    margin: 100px;
+    font-size: 30px;
+    padding: 30px;
+    color: white;
+}
+.bud {
+    margin-bottom: 50x;
+}
+.long {
+    padding: 70px;
+}
+.but button {
+    height: 40px;
+    width: 110px;
+    color: lightcoral;
+    background-color: white;
+    border-color: lightcoral;
+    border-radius: 5px;
+}
+main, .play {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    font-size: 25px;
+}
+.lm {
+    color: #D52047;
+}
+.dr {
+    float:inline-end;
+}
+.rd {
+    position: relative;
+    bottom: 130px;
+    left: 40px
+}
+h3 {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 30px;
+}
+.fea {
+    display: flex;
+    justify-content: space-around;
+}
+.tech{
+    margin-top: 90px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 20px;
+    text-size-adjust: 0px;
+}
+.stay {
+    display: flex;
+    background-color: #eb4a6d;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 90px;
+}
+.money {
+    font-size: 20px;
+    color: white;
+    padding: 60px;
+}
+.sav {
+    font-size: 30px;
+}
+.ion img {
+margin-right: 30px;
+}
+.form {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    margin: 100px;
+}
+.form h5 {
+    font-size: 30px;
+}
+.for {
+    font-size: 30px;
+    padding: 30px;
+}
+.form input {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+.now input{
+    width: 630px;
+}
+.form button {
+    color: white;
+    background-color: #f04c70;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 130px;
+}
+footer {
+    background-color: rgb(235, 231, 231);
+}
+footer li {
+    list-style-type: none;
+}
+.foot {
+    display: flex;
+    justify-content: space-around;
+
+    text-align: left;
+    margin-top: 50px;
+    padding: 90px;
+    font-size: 20px;
+}
+.tweet {
+}
+footer h6 {
+    font-size: 30px;
+}
+.copyright {
+   margin-left: 170px;
+   padding-bottom: 90px;
+}
+    
